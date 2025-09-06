@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.example.norain.mixin",
+  "package": "com.franzy.norain.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
     "WorldMixin"

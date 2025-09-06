@@ -1,4 +1,4 @@
-package net.example.norain;
+package com.franzy.norain;
 
 import btw.BTWAddon;
 import net.minecraft.src.World;
