@@ -1,6 +1,6 @@
-package net.example.norain.mixin;
+package com.franzy.norain.mixin;
 
-import net.example.norain.NoRainAddon;
+import com.franzy.norain.NoRainAddon;
 import net.minecraft.src.World;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
