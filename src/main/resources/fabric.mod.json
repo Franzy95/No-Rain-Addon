@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "id": "norain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "No Rain Addon",
-  "description": "Disables rain and thunderstorms!",
+  "description": "Disables rain and thunderstorms for a configurable number of ticks.",
   "authors": [
     "Franzy"
   ],
