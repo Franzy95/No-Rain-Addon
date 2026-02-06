@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Properties;
 
-import btw.BTWAddon;
+import api.BTWAddon;
 
 public class NoRainAddon extends BTWAddon {
 
