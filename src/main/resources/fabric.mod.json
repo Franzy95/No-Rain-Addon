@@ -10,7 +10,7 @@
   "contact": {
     "sources": "https://github.com/Franzy95/No-Rain-Addon"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/modid/icon.png",
   "environment": "*",
   "entrypoints": {
